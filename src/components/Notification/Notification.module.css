@@ -1,0 +1,7 @@
+.notification {
+  color: var(--dark-gray);
+  text-transform: lowercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}

@@ -1,0 +1,14 @@
+.feedback__wrapper {
+  width: 420px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: space-between;
+  align-items: center;
+}
+.feedback__item {
+  text-transform: lowercase;
+  font-size: 12px;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
